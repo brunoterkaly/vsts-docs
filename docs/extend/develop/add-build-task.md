@@ -433,8 +433,11 @@ tfx extension create --manifest-globs vss-extension.json
 After you have your packaged extension in a .vsix file, you're ready to publish your extension to the Marketplace.
 
 <a name="publishext" />
+
 ## Step 5: Publish your extension
+
 <a name="createpublisher" />
+
 ### Create your publisher
 
 All extensions, including those from Microsoft, are identified as being provided by a publisher.
